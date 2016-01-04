@@ -12,3 +12,4 @@ links to swift-related topics
 ## **Videos**
 - [Functional Swift Conference 2015 videos] (http://2015.funswiftconf.com/)
 - [iOS Videos - a collection of videos about Mac, iOS, and Swift] (http://www.uiko.de)
+- [Functional Reactive Programming with RxSwift] (https://realm.io/news/slug-max-alexander-functional-reactive-rxswift/)
